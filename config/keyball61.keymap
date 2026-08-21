@@ -30,8 +30,7 @@
 #define FUN     5
 #define NAV     6
 #define MED     7
-#define LOWER   8
-#define MAG     9
+#define MAG     8
 
 / {
     behaviors {
