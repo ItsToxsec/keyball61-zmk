@@ -23,7 +23,7 @@
 // layers
 
 #define QWE     0
-#define ALT     1
+#define GAL     1
 #define COL     2
 #define GAM     3
 #define NUM     4
