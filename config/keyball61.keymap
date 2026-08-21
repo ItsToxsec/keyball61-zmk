@@ -22,10 +22,10 @@
 
 // layers
 
-#define DEFAULT 0
+#define QWE     0
 #define ALT     1
 #define COL     2
-#define GAMING  3
+#define GAM     3
 #define NUM     4
 #define FUN     5
 #define NAV     6
